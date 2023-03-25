@@ -1,6 +1,6 @@
 ## stage 1 (Basics): 
 ### week 1 (Python Basics):
-Resources: https://www.coursera.org/learn/python-basics 
+Resources: https://www.coursera.org/learn/python-basics \n
 Timeline: 7 Days
 #### Task: 
 
