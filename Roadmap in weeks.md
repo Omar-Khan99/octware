@@ -153,47 +153,50 @@
 #### optional Hegab playlist : https://www.youtube.com/playlist?list=PL1YWN9bMt3ODJnCNW1WqJ46tXVMCgdwTI 
 #### Task:
 
-## Stage 3 (Deep Learning and Neural networks):
-### Week  ():
-##### Resources  :
-##### Timeline:  Days
-#### optional : 
+## Stage 4 (Deep Learning and Neural networks):
+### Week 1 (Neural Networks and Deep Learning):
+##### Resources Neural Networks and Deep Learning: https://www.coursera.org/learn/neural-networks-deep-learning
+##### Timeline: 10 Days
 #### Task:
 
-### Week  ():
-##### Resources  :
-##### Timeline:  Days
-#### optional : 
+### Week 2 (Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization):
+##### Resources : https://www.coursera.org/learn/deep-neural-network
+##### Timeline: 10 Days
+#### optional (will help you to start making small projects on Neural nets): 
+- https://app.datacamp.com/learn/courses/introduction-to-deep-learning-in-python
+- Note :
+If you want to see this then see it after finishing first 2 Coursera deep learning courses
 #### Task:
 
-### Week  ():
-##### Resources  :
-##### Timeline:  Days
-#### optional : 
+### Week 3 (Structuring Machine Learning Projects):
+##### Resources : https://www.coursera.org/learn/machine-learning-projects
+##### Timeline: 8 Days
 #### Task:
 
-### Week  ():
-##### Resources  :
-##### Timeline:  Days
-#### optional : 
+### Week 4 (Chapter 1,2,3 Deep Learning with python):
+##### Resources : https://www.coursera.org/learn/machine-learning-projects
+##### Timeline: 9 Days
 #### Task:
 
-### Week  ():
-##### Resources  :
-##### Timeline:  Days
-#### optional : 
+### Week 5 (Chapter 4,5 Deep Learning with python + week 1 Convolution neural Networks Course):
+##### Resources Chapter 4,5 Deep Learning with python: 
+- https://www.coursera.org/learn/machine-learning-projects
+##### Resources week 1 Convolution neural Networks Course: 
+- https://www.coursera.org/learn/convolutional-neural-networks
+##### Timeline: 10 Days
 #### Task:
 
-### Week  ():
-##### Resources  :
-##### Timeline:  Days
-#### optional : 
+### Week 6 (Chapter 6,7 Deep Learning with python + week 2 Convolution neural Networks Course):
+##### Resources Chapter 6,7 Deep Learning with python:
+- https://www.coursera.org/learn/machine-learning-projects
+##### Resources week 2 Convolution neural Networks Course:
+- https://www.coursera.org/learn/convolutional-neural-networks
+##### Timeline: 10 Days
 #### Task:
 
-### Week  ():
-##### Resources  :
-##### Timeline:  Days
-#### optional : 
+### Week 7 (week 3,4 Convolution neural Networks Course):
+##### Resources week 3,4 Convolution neural Networks Course: https://www.coursera.org/learn/convolutional-neural-networks
+##### Timeline: 10 Days
 #### Task:
 
 
