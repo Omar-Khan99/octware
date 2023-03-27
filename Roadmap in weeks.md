@@ -28,6 +28,8 @@
 
 ### Week 5 (Pandas + 2nd week oop course):
 ##### Resources Pandas:
+- https://app.datacamp.com/learn/courses/introduction-to-numpy
+- https://www.youtube.com/playlist?list=PLvLvlVqNQGHCb2_ygmr1DQOMOv0yXp84F
 ##### Timeline: 5 Days
 ##### Resources 2st week oop course: https://www.coursera.org/learn/python-classes-inheritance
 ##### Timeline: 3 Days
