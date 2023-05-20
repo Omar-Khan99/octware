@@ -29,6 +29,8 @@
 ### Week 5 (Pandas + 2nd week oop course):
 ##### Resources Pandas:
 - https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS
+##### Arabic source
+- https://www.youtube.com/playlist?list=PLuRv1IekA3YVwzaWa2Kp7bgIVcJsJ5XGW 
 - https://www.youtube.com/playlist?list=PLvLvlVqNQGHCb2_ygmr1DQOMOv0yXp84F
 ##### Timeline: 5 Days
 ##### Resources 2st week oop course: https://www.coursera.org/learn/python-classes-inheritance
