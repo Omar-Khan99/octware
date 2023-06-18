@@ -19,7 +19,9 @@
 #### Task:
 
 ### Week 4 (Numpy + 1st week oop course):
-##### Resources Numpy: https://app.datacamp.com/learn/courses/introduction-to-numpy
+##### Resources Numpy:
+- https://app.datacamp.com/learn/courses/introduction-to-numpy
+- https://www.youtube.com/watch?v=QUT1VHiLmmI
 ##### Timeline: 4 Days
 ##### Resources 1st week oop course: https://www.coursera.org/learn/python-classes-inheritance
 ##### Timeline: 3 Days
